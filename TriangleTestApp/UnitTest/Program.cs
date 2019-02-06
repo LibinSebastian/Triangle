@@ -40,9 +40,9 @@ namespace UnitTest
             }
             [Test]
             public void
-                GetTriangleScalene_Inputside1as7andside2as12andside3as23_Returnsresult()
+                GetTriangleScalene_Inputside1as9andside2as13andside3as33_Returnsresult()
             {
-             string output = TriangleSolver.analyzeFunction(7, 12, 23);
+             string output = TriangleSolver.analyzeFunction(9, 13, 33);
                          Console.Write(output);
             }
             [Test]

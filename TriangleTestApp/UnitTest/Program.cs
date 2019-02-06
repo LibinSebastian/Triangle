@@ -47,9 +47,9 @@ namespace UnitTest
             }
             [Test]
             public void
-                GetTriangleEquilateral_Inputsside1as3andside2as3side3as3_Returnsresult()
+                GetTriangleEquilateral_Inputsside1as4andside2as4side3as4_Returnsresult()
             {
-             string output = TriangleSolver.analyzeFunction(3, 3, 3);
+             string output = TriangleSolver.analyzeFunction(4, 4, 4);
                          Console.Write(output);
             }
             [Test]

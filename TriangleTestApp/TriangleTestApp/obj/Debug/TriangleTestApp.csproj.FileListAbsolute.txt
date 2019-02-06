@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\TriangleTestApp\TriangleTestApp\bin\Debug\TriangleTestApp.exe.config
+C:\Users\HP\source\repos\TriangleTestApp\TriangleTestApp\bin\Debug\TriangleTestApp.exe
+C:\Users\HP\source\repos\TriangleTestApp\TriangleTestApp\bin\Debug\TriangleTestApp.pdb
+C:\Users\HP\source\repos\TriangleTestApp\TriangleTestApp\obj\Debug\TriangleTestApp.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\TriangleTestApp\TriangleTestApp\obj\Debug\TriangleTestApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TriangleTestApp\TriangleTestApp\obj\Debug\TriangleTestApp.exe
+C:\Users\HP\source\repos\TriangleTestApp\TriangleTestApp\obj\Debug\TriangleTestApp.pdb
+C:\Users\HP\source\repos\TriangleTestApp\TriangleTestApp\bin\Debug\nunit.framework.dll
+C:\Users\HP\source\repos\TriangleTestApp\TriangleTestApp\bin\Debug\nunit.framework.xml
+C:\Users\HP\source\repos\TriangleTestApp\TriangleTestApp\obj\Debug\TriangleTestApp.csproj.CopyComplete
